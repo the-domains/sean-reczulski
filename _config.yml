@@ -1,0 +1,28 @@
+name: Sean Reczulski
+favicon: null
+layout_spectrum: 0.19331059255637228
+typography_spectrum: 0.25912290974520147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7617444889619946
+  lightness: 0.23779087606817484
+  saturation: 0.12448481912724674
+  rhythmicContrast: 0.7112895264290273
+purpose: []
