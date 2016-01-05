@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sean Reczulski]]></title>
+        <description><![CDATA[Sean Reczulski]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 15:24:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Entry 1: The Grid]]></title>
+            <description><![CDATA[<article><h1>Entry 1: The Grid</h1><p>I've been meaning to make a website for awhile now. Sometimes you need something slightly more proper then Facebook or Twitter to share your story, so when I received a notification that I got access to The Grid's BETA test, I couldn't have been happier.</p></article>]]></description>
+            <link>undefinedentry-1-the-grid/index.html</link>
+            <guid isPermaLink="false">f27b307e-d8eb-4205-8eab-6d7d2810c4f3</guid>
+            <pubDate>Tue, 05 Jan 2016 15:24:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
